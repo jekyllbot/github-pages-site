@@ -23,5 +23,5 @@ title: GitHub Pages Example
 <p><em>Pro-tip: The entire Jekyll <code>site</code> object is available via Javascript console.</em></p>
 
 <script type="text/javascript" src="assets/renderjson.js"></script>
-<script>var site = {{ site.github | jsonify }};</script>
+<script>var site = {{ site | jsonify }};</script>
 <script src="assets/behaviour.js"></script>
