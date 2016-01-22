@@ -1,0 +1,27 @@
+---
+title: GitHub Pages Example
+---
+
+## Build infos
+
+<ul>
+  <li><strong>Build time:</strong> {{ site.time | date_to_rfc822 }}</li>
+  <li><strong>Unix build time:</strong> {{ site.time | date:"%s" }}</li>
+</ul>
+
+<h2 id="plugins">Plugins</h2>
+
+<ul>
+  <li>Hi @jekyllbot, this site is :sparkles:!</li>
+  <li><a href="sitemap.xml">sitemap</a></li>
+</ul>
+
+<h2 id="github-namespace">GitHub Namespace</h2>
+
+<div id="output">&nbsp;</div>
+
+<p><em>Pro-tip: The entire Jekyll <code>site</code> object is available via Javascript console.</em></p>
+
+<script type="text/javascript" src="assets/renderjson.js"></script>
+<script>var site = {{ site.github | jsonify }};</script>
+<script src="assets/behaviour.js"></script>
