@@ -4,4 +4,4 @@ gems:
   - jekyll-sitemap
   
 kramdown:
-  toc_levels: 1..6
+  toc_levels: 1..3
