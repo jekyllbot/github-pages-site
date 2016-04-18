@@ -3,5 +3,8 @@ gems:
   - jekyll-mentions
   - jekyll-sitemap
   
+github:
+  i_am_config: hear me roar
+  
 kramdown:
   toc_levels: 1..3
