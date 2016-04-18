@@ -3,6 +3,9 @@ layout: default
 title: GitHub Pages Example
 ---
 
+TOC:
+{:toc}
+
 ## Build infos
 
 <ul>
