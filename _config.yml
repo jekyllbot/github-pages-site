@@ -3,3 +3,5 @@ gems:
   - jekyll-mentions
   - jekyll-sitemap
   
+kramdown:
+  toc_levels: 1..6
