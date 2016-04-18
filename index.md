@@ -6,6 +6,8 @@ title: GitHub Pages Example
 TOC:
 {:toc}
 
+# GitHub Pages Example
+
 ## Build infos
 
 <ul>
