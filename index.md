@@ -20,6 +20,7 @@ TOC:
 <ul>
   <li>Hi @jekyllbot, this site is :sparkles:!</li>
   <li><a href="sitemap.xml">sitemap</a></li>
+  <li><a href="feed.xml">feed</a></li>
 </ul>
 
 <h2 id="github-namespace">GitHub Namespace</h2>
