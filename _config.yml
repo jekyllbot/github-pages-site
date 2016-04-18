@@ -2,6 +2,7 @@ gems:
   - jemoji
   - jekyll-mentions
   - jekyll-sitemap
+  - jekyll-feed
   
 github:
   i_am_config: hear me roar
