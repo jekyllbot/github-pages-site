@@ -23,6 +23,12 @@ TOC:
   <li><a href="feed.xml">feed</a></li>
 </ul>
 
+{% highlight ruby %}
+def hi
+  puts "Hello."
+end
+{% endhighlight %}
+
 <h2 id="github-namespace">GitHub Namespace</h2>
 
 <div id="output">&nbsp;</div>
