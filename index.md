@@ -29,6 +29,12 @@ def hi
 end
 {% endhighlight %}
 
+```ruby
+def hi
+  puts "Hello."
+end
+```
+
 <h2 id="github-namespace">GitHub Namespace</h2>
 
 <div id="output">&nbsp;</div>
