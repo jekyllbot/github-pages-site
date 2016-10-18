@@ -12,3 +12,5 @@ kramdown:
 
 highlighter: rouge
 pygments: true
+
+theme: minima
