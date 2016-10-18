@@ -13,4 +13,4 @@ kramdown:
 highlighter: rouge
 pygments: true
 
-theme: minima
+theme: heh
