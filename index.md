@@ -13,6 +13,7 @@ TOC:
 <ul>
   <li><strong>Build time:</strong> {{ site.time | date_to_rfc822 }}</li>
   <li><strong>Unix build time:</strong> {{ site.time | date:"%s" }}</li>
+  <li><strong>Jekyll version:</strong> { jekyll.version }}</li>
 </ul>
 
 <h2 id="plugins">Plugins</h2>
